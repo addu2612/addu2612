@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addu2612&label=Profile%20views&color=0e75b6&style=flat" alt="addu2612" /> </p>
 
+- 📚 I’m currently studying **Computer Engineering** at **Dwarkadas J. Sanghvi College of Engineering**
+ 
 - 🌱 I’m currently learning **NLP,Computer Vision**
 
 - 📫 How to reach me **arnavpanicker26@gmail.com**
