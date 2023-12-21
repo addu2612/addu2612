@@ -1,4 +1,7 @@
-<img align="right" alt="coding" height=500 width="400" src="https://tenor.com/en-IN/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296">
+<div style="text-align: center;">
+  <img alt="coding" height="500" width="400" src="https://tenor.com/en-IN/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Arnav Panicker</h1>
 <h3 align="center">Passionate ML developer</h3>
