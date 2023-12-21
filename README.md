@@ -1,7 +1,6 @@
 <div style="text-align: center;">
-  <img alt="coding" style="width: auto; height: 280px;" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif">
+  <img alt="coding" style="width: 100%; height: auto; object-fit: contain;" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif">
 </div>
-
 
 
 <h1 align="center">Hi 👋, I'm Arnav Panicker</h1>
