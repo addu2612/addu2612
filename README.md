@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img alt="coding" height="500" width="400" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif">
+  <img alt="coding" height="500" width="800" src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif">
 </div>
 
 
