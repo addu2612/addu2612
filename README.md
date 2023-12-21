@@ -1,7 +1,7 @@
+<img align="right" alt="coding" height=500 width="400" src="https://tenor.com/en-IN/view/pompo-the-cinephile-typing-fast-anime-shitposting-gif-24296296">
+
 <h1 align="center">Hi 👋, I'm Arnav Panicker</h1>
 <h3 align="center">Passionate ML developer</h3>
-
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/9N2UvCx7wXLnG/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addu2612&label=Profile%20views&color=0e75b6&style=flat" alt="addu2612" /> </p>
 
