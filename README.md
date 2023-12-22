@@ -29,6 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addu2612&" alt="addu2612" /></p>
 
-<img src="https://myreadme.vercel.app/api/embed/addu2612?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
 [![addu2612's GitHub | Languages Over Time](https://stats.quine.sh/addu2612/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=addu2612)
