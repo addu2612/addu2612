@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addu2612&show_icons=true&locale=en" alt="addu2612" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addu2612&" alt="addu2612" /></p>
+
+[![addu2612's GitHub | Languages Over Time](https://stats.quine.sh/addu2612/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=addu2612)
