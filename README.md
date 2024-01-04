@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **arnavpanicker26@gmail.com**
 
-- ⚡ Fun fact **Can play sports 24/7**
+- ⚡ Fun fact **Can speak 5 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
