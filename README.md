@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=addu2612&show_icons=true&locale=en&theme=tokyonight" alt="addu2612" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addu2612&" alt="addu2612" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=addu2612&theme=tokyonight" alt="addu2612" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
