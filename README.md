@@ -2,8 +2,11 @@
   <img src="https://media.tenor.com/o-wNCEq_6f0AAAAM/pompo-the-cinephile-typing-fast.gif" width="100%">
 </div>
 
-<h1 align="center">Hi 👋, I'm Arnav Panicker</h1>
-<h3 align="center">Passionate ML developer and budding Backend Developer</h3>
+
+
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=Hi!;I'm+Arnav+Panicker;Computer+Engineering+Student;ML+and+Backend+Dev;function+findQuestion(42)"></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addu2612&label=Profile%20views&color=0e75b6&style=flat" alt="addu2612" /> </p>
 
