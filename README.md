@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **arnavpanicker26@gmail.com**
 
-- ⚡ Fun fact **Can speak 5 languages**
+- ⚡ Fun fact **Can speak 6 languages**
 
 - 🥇 PICT International Techfiesta Hackathon 
 
