@@ -18,7 +18,9 @@
 
 - ⚡ Fun fact **Can speak 6 languages**
 
-- 🥇 PICT International Techfiesta Hackathon 
+- 🖥️ Multilingual programmer
+
+- 🥇 PICT International Techfiesta Hackathon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
