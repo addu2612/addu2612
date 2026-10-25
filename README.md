@@ -10,17 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addu2612&label=Profile%20views&color=0e75b6&style=flat" alt="addu2612" /> </p>
 
-- 📚 I’m currently studying **Computer Engineering** at **Dwarkadas J. Sanghvi College of Engineering**
+- 📚 Undergrad , DJ @ CS
  
-- 🌱 I’m currently learning **NLP,Computer Vision**
+- 🌱 I'm currently working as a software engineer at Swiggy
 
 - 📫 How to reach me **arnavpanicker26@gmail.com**
 
 - ⚡ Fun fact **Can speak 6 languages**
 
 - 🖥️ Multilingual programmer
-
-- 🥇 PICT International Techfiesta Hackathon
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
