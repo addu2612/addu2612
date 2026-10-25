@@ -41,4 +41,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-[![addu2612's GitHub | Languages Over Time](https://stats.quine.sh/addu2612/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=addu2612)
